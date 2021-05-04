@@ -1,4 +1,4 @@
-# Rubber-ducky-usb
+# usb-rubber-ducky
 
                   __
               ___( o)>
